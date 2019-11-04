@@ -8,6 +8,7 @@ ONLY support python 3.6+, pytorch 1.0.0+. Tested in Ubuntu 16.04/18.04/Windows 1
 If you want to train nuscenes dataset, see [this](NUSCENES-GUIDE.md).
 
 ## News
+2019-11-1: Liang add two stage detection framework to get better performance
 
 2019-4-1: SECOND V1.6.0alpha released: New Data API, [NuScenes](https://www.nuscenes.org) support, [PointPillars](https://github.com/nutonomy/second.pytorch) support, fp16 and multi-gpu support.
 
